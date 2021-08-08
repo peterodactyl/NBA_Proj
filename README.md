@@ -21,7 +21,7 @@ The dataset mined from the NBA website must be prepared before it can be used as
 ### Scraping Twitter
 Since this is a undergrad student project, no budget is available for the use of Twitter's Full Archive API.<br>
 Instead, the tool chosen as a scraper is Twint, which is an open-source Twitter Intelligence Project. <br>
-Using Twint, twitter-scraping-pipeline was built in order to get a set number of tweets from each regular season NBA match played since 2010. 
+Using Twint, a twitter-scraping-pipeline was built in order to get a set number of tweets from each regular season NBA match played since 2010. 
 <br>
 <br>
 
