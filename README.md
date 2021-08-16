@@ -3,7 +3,7 @@
 ## V1.0
 
 This project is aimed towards creating a reliable tool to predict the outcome of NBA matches during the regular season.<br>
-The end goal of this project is to use a few Machine Learning techiniques to conduct sentiment analysis of Tweets that mention the teams that will play and use this data to feed another Machine Learning model, which will in turn predict the final outcome.<br>
+The end goal is to use a few Machine Learning techiniques to conduct sentiment analysis of Tweets that mention the teams that will play and use this data to feed another Machine Learning model, which will in turn predict the final outcome.<br>
 In order to acomplish this goal, a few different kinds of processes and technologies will be applied. They are:
 <br>
 <br>
